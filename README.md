@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 Would love to collaborate and compete in hackathons.
 
 ⚡ Fun Facts:
-- 🌱 I’m currently exploring Machine Learning and Web Development.
+- 🎓 Currently a third year undergraduate pursuing BTech. in 💡Electrical Engineering from 📍Indian Institute of Technology Kanpur.
+- 🐱‍💻 I’m currently exploring Machine Learning and Web Development.
 - 📫 How to reach me: <a href="mailto: sonal.agrawal.15112@gmail.com">sonal.agrawal.15112@gmail.com</a>
 - 💬 I can be extremely lazy and active at the same time.
-- 😄 Pronouns: She/Her
+- 👧 Pronouns: She/Her
 
  ### ⭐ GitHub Stats
 
