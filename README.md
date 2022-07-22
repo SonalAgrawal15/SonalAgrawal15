@@ -20,7 +20,7 @@ Would love to collaborate and compete in hackathons.
 
 ⚡ Fun Facts:
 - 🌱 I’m currently exploring Machine Learning and Web Development.
-- 📫 How to reach me: <a href="sonal.agrawal.15112@gmail.com">
+- 📫 How to reach me: <a href="mailto: sonal.agrawal.15112@gmail.com">sonal.agrawal.15112@gmail.com</a>
 - 💬 I can be extremely lazy and active at the same time.
 - 😄 Pronouns: She/Her
 
