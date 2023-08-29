@@ -15,15 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hi, I am Sonal Agrawal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> it's nice to meet you!
-
-Would love to collaborate and compete in hackathons.
-
-⚡ Fun Facts:
-- 🎓 Currently a senior undergraduate pursuing BTech. in 💡Electrical Engineering from 📍Indian Institute of Technology Kanpur.
-- 🐱‍💻 I’m currently exploring Machine Learning and Web Development.
-- 📫 How to reach me: <a href="mailto: sonal.agrawal.15112@gmail.com">sonal.agrawal.15112@gmail.com</a>
-- 💬 I can be extremely lazy and active at the same time.
-- 👧 Pronouns: She/Her
+🎓 Currently a senior undergraduate pursuing BTech. in 💡Electrical Engineering from 📍Indian Institute of Technology Kanpur.
 
 ### Let's Connect :coffee:
 <p align="center">
