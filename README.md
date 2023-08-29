@@ -25,12 +25,6 @@ Would love to collaborate and compete in hackathons.
 - 💬 I can be extremely lazy and active at the same time.
 - 👧 Pronouns: She/Her
 
- ### ⭐ GitHub Stats
-
- <p> 
-    <img src="https://github-readme-stats.vercel.app/api?username=SonalAgrawal15&count_private=true&show_icons=true&theme=default&line" alt="Sonal Stats" width="420"/> 
- </p>
-
 ### Let's Connect :coffee:
 <p align="center">
 	<a href="https://github.com/SonalAgrawal15"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
